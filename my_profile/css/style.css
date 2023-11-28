@@ -65,13 +65,9 @@
     padding: 15px 0;
 }
 
-.seccion-titulo,
-.seccion-descripcion,
-.texto-presenta,
-.texto-oficio,
-.nav-link {
-    font-family: 'Comic Sans MS', Arial, Verdana;
-    color: #FFB9B9;
+body {
+    font-family: "Lucida console", monospace;
+    color: black;
 }
 
 .seccion-texto {
