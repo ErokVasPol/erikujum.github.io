@@ -261,6 +261,10 @@ h1 {
     font-size: 0.9rem;
 }
 
+.titulo {
+    font-family: 'Comic Sans MS', Arial, Verdana;
+}
+
 /* Responsive */
 
 @media screen and (max-width: 400px) {
