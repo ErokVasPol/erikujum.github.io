@@ -61,7 +61,8 @@
 }
 
 .seccion-titulo {
-    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 7rem;
     padding: 15px 0;
 }
 
@@ -259,10 +260,6 @@ h1 {
 .recomendacion-info .cargo {
     color: #3F3D56;
     font-size: 0.9rem;
-}
-
-.titulo {
-    font-family: 'Comic Sans MS', Arial, Verdana;
 }
 
 /* Responsive */
