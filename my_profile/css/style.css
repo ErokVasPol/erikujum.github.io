@@ -30,6 +30,9 @@
 
 .myclass-main {
     padding: 3rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .myclass-main h2 {
@@ -46,7 +49,7 @@
 
 
 .about-me {
-    height: 500px;
+    height: 400px;
     padding: 10px;
 }
 
@@ -56,7 +59,7 @@
 }
 
 .about-me .contenedor {
-    max-width: 600px;
+    max-width: 1000px;
     text-align: center;
 }
 
@@ -65,13 +68,14 @@
     padding: 15px 0;
 }
 
-body {
+/*body {
     font-family: "Lucida console", monospace;
     color: black;
-}
+}*/
 
 .seccion-texto {
     font-size: 1.2rem;
+    text-align: justify;
 }
 
 .experiencia {
@@ -123,7 +127,7 @@ body {
 }
 
 .proyectos img {
-    height: 100%;
+    height: auto;
     width: 100%;
     padding: 10px;
     border-radius: 10px;
