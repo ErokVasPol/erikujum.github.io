@@ -33,6 +33,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .myclass-main h2 {
@@ -66,6 +67,7 @@
 .seccion-titulo {
     font-size: 2rem;
     padding: 15px 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 /*body {
@@ -76,10 +78,12 @@
 .seccion-texto {
     font-size: 1.2rem;
     text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .experiencia {
     padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .experiencia-columna:hover {
@@ -92,6 +96,7 @@
     font-size: 25px;
     font-weight: bold;
     margin: 10px 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .experiencia i {
